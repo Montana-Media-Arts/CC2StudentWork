@@ -1,0 +1,10 @@
+monte(1).png
+monte(2).png
+monte(3).png
+monte(4).png
+monte(5).png
+monte(6).png
+monte(7).png
+monte(8).png
+monte(9).png
+monte(10).png
