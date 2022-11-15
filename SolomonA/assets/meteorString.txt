@@ -1,0 +1,10 @@
+boulder_1.png
+boulder_2.png
+boulder_3.png
+boulder_4.png
+boulder_5.png
+boulder_6.png
+boulder_7.png
+boulder_8.png
+boulder_9.png
+boulder_10.png
